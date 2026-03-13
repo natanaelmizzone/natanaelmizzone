@@ -30,7 +30,7 @@
 <p align="center"> <h2 align="center">Learning Tools:</h2> </p>
 <p align="center">
 <a href="#">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,windows,vscode,github,mysql,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,windows,vscode,visualstudio,github,mysql,figma,dotnet" />
 </a>
 </p>
  
