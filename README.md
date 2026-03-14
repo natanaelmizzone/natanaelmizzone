@@ -1,4 +1,4 @@
-```css
+
 #profile {
   name: "Natanael dos Santos Mizzone";
   role: "Estudante e entusiasta";
@@ -7,7 +7,7 @@
  
 .about-me {
   education: "Estudante (TI)";
-  focus: "Aprender fundamentos e boas práticas";
+  focus: "Fundamentos e boas práticas";
   mindset: "Curioso, dedicado e em evolução constante";
 }
  
@@ -16,13 +16,12 @@
     "HTML",
     "CSS",
     "JavaScript"
+    "C#"
+    "MariaDB"
+    "DBEAVER"
   ];
 }
- 
-#contact {
-  github: url(https://github.com/jgabrieldevhub);
-  linkedin: url(www.linkedin.com/in/jorge-gabriel-dev);
-}
+
  
 /* Obrigado por visitar meu perfil */
 ```
