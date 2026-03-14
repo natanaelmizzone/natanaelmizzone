@@ -1,26 +1,14 @@
-
+```css
 #profile {
-  name: "Natanael dos Santos Mizzone";
-  role: "Estudante e entusiasta";
-  status: "Focado em aperende e desenvolver";
 }
  
 .about-me {
-  education: "Estudante (TI)";
-  focus: "Fundamentos e boas práticas";
-  mindset: "Curioso, dedicado e em evolução constante";
 }
  
 .skills-learning {
-  languages: [
-    "HTML",
-    "CSS",
-    "JavaScript"
-    "C#"
-    "MariaDB"
-    "DBEAVER"
-  ];
 }
+ 
+#contact {
 }
  
 /* Obrigado por visitar meu perfil */
@@ -29,7 +17,7 @@
 <p align="center"> <h2 align="center">Learning Tools:</h2> </p>
 <p align="center">
 <a href="#">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,windows,vscode,visualstudio,github,mysql,figma,dotnet" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,windows,vscode,github,mysql,figma" />
 </a>
 </p>
  
@@ -40,7 +28,6 @@
 </a>
 </p>
  
-
 <!--
 **natanaelmizzone/natanaelmizzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
