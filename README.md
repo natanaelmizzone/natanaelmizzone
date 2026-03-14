@@ -21,7 +21,7 @@
     "DBEAVER"
   ];
 }
-
+}
  
 /* Obrigado por visitar meu perfil */
 ```
