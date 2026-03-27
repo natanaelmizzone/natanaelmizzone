@@ -17,7 +17,7 @@
 <p align="center"> <h2 align="center">Learning Tools:</h2> </p>
 <p align="center">
 <a href="#">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,windows,vscode,github,mysql,figma](https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,github,mysql,figma,markdown,arduino,php,linux,net" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,github,mysql,figma,markdown,arduino,php,linux,net" />
 </a>
 </p>
  
