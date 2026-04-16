@@ -1,4 +1,4 @@
-#/*Hello My Friends*/
+/*Hello My Friends*/
 
 Sejam bem vindos!
 
