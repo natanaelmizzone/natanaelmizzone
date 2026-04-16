@@ -1,8 +1,8 @@
 # Hello My Friends
 
-> Sejam bem vindos!
+* Sejam bem vindos! *
 
-> Aqui vai uma apresentação resumidamente:
+* Aqui vai uma apresentação resumidamente: *
 
 > Sou estudante no Senac em transição de carreira, movido pela curiosidade e interesse por tecnologia. Tenho como hobby pesquisar novas tecnologias e inovações, sempre buscando entender tendências e ideias diferentes. Atualmente, estou focado no aprendizado de lógica, algoritmos e linguagens de programação, construindo uma base sólida para atuar na área de desenvolvimento.
  
