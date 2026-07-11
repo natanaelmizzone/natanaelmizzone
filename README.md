@@ -16,34 +16,33 @@ Aqui vai uma apresentação resumidamente:
 /* Meu Perfil Dev */
 
 #profile {
-  --content-name: "Natanael Mizzone";
-  --content-role: "Estudante de TI & Entusiasta em Programação";
-  --content-status: "Construindo um castelo de conhecimentos, experiências e informações";
+  content-name: "Natanael Mizzone";
+  content-role: "Estudante de TI & Entusiasta em Programação";
+  content-status: "Construindo um castelo de conhecimentos, experiências e informações";
 }
  
 .about-me {
-  --education: "Estudante de TI & CyberSegurança";
-  --focus: "Conceitos fundamentais, boas práticas e aprimoramento contínuo";
-  --mindset: "Proativo, curioso, resiliente e focado em soluções";
+  education: "Estudante de TI & CyberSegurança";
+  focus: "Conceitos fundamentais, boas práticas e aprimoramento contínuo";
+  mindset: "Proativo, curioso, resiliente e focado em soluções";
 }
  
 .skills {
-  --logic-and-docs: "Portugol", "Markdown";
-  --frontend: "HTML5", "CSS3", "JavaScript (ES6+)", "Bootstrap 5";
-  --backend: "PHP", "C# (.NET)";
-  --database: "SQL", "MySQLi", "MariaDB";
-  --tools: "DBeaver", "Git", "GitHub", "VS Code";
+  logic-and-docs: "Portugol", "Markdown", "FIGMA", "Trellor",;
+  frontend: "HTML5", "CSS3", "JavaScript (ES6+)", "Bootstrap 5";
+  backend: "PHP", "C# (.NET)";
+  database: "SQL", "MySQLi", "MariaDB";
+  tools: "DBeaver", "Git", "GitHub", "VS Code", "Visual Studio";
 }
 
 .infrastructure {
-  --networking: "Protocolos TCP/IP", "Modelos OSI/TCP", "Endereçamento IP", "Roteamento básico";
-  --hardware: "Montagem e manutenção de computadores", "Diagnóstico de hardware", "Instalação de S.O.";
+  networking: "Protocolos TCP/IP", "Modelos OSI/TCP", "Endereçamento IP", "Roteamento básico";
+  hardware: "Montagem e manutenção de computadores", "Diagnóstico de hardware", "Instalação de S.O.";
 }
  
 #contact {
-  --github: url("https://github.com/natanaelmizzone");
-  --linkedin: url("https://linkedin.com/natanaelmizzone");
-  --email: url("natanmizzone@gmail.com");
+  github: url("https://github.com/natanaelmizzone");
+  linkedin: url("[https://linkedin.com/natanaelmizzone](https://www.linkedin.com/in/natanaelmizzone/)");
 }
 
 
