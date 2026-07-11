@@ -12,34 +12,32 @@ Aqui vai uma apresentação resumidamente:
 
 
 ```css
+/* Meu Perfil Dev */
 #profile {
-  name: "Natanael Mizzone";
-  role: "Estudante de TI e entusiasta em programação";
-  status: "Construindo um castelo de conhecimentos, experiencias e  informações";
+  --content-name: "Natanael Mizzone";
+  --content-role: "Estudante de TI & Entusiasta em Programação";
+  --content-status: "Construindo um castelo de conhecimentos, experiências e informações";
 }
  
 .about-me {
-  education: "Estudante de TI e CyberSeguranaça";
-  focus: "Conceitos, boas prtáticas e aprimoramentos";
-  mindset: "Proativo, curioso, ";
+  --education: "Estudante de TI & CyberSegurança";
+  --focus: "Conceitos fundamentais, boas práticas e aprimoramento contínuo";
+  --mindset: "Proativo, curioso, resiliente e focado em soluções";
 }
  
-.skills-learning {
-  languages: [
-    "HTML",
-    "CSS",
-    "JavaScript"
-    "Bootstrap"
-    "PHP"
-    "SQL"
-    "C#-CSharp"
-  ];
+.skills {
+  --learning: "HTML5", "CSS3", "JavaScript (ES6+)", "Bootstrap 5";
+  --backend: "PHP", "C# (.NET)";
+  --database: "SQL";
+  --security: "Pentest básico", "Criptografia", "Redes de computadores";
 }
  
 #contact {
-  github: url(https://github.com/natanaelmizzone);
-  linkedin: url(www.linkedin.com/in/natanaelmizzone);
+  --github: url("https://github.com/natanaelmizzone");
+  --linkedin: url("https://linkedin.com/natanaelmizzone");
+  --email: url("natanmizzone@gmail.com");
 }
+
 ```
 
 
