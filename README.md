@@ -28,10 +28,16 @@ Aqui vai uma apresentação resumidamente:
 }
  
 .skills {
-  --learning: "HTML5", "CSS3", "JavaScript (ES6+)", "Bootstrap 5";
+  --logic-and-docs: "Portugol", "Markdown";
+  --frontend: "HTML5", "CSS3", "JavaScript (ES6+)", "Bootstrap 5";
   --backend: "PHP", "C# (.NET)";
-  --database: "SQL";
-  --security: "Pentest básico", "Criptografia", "Redes de computadores";
+  --database: "SQL", "MySQLi", "MariaDB";
+  --tools: "DBeaver", "Git", "GitHub", "VS Code";
+}
+
+.infrastructure {
+  --networking: "Protocolos TCP/IP", "Modelos OSI/TCP", "Endereçamento IP", "Roteamento básico";
+  --hardware: "Montagem e manutenção de computadores", "Diagnóstico de hardware", "Instalação de S.O.";
 }
  
 #contact {
@@ -39,6 +45,7 @@ Aqui vai uma apresentação resumidamente:
   --linkedin: url("https://linkedin.com/natanaelmizzone");
   --email: url("natanmizzone@gmail.com");
 }
+
 
 ```
 
