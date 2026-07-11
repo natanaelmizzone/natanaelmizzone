@@ -59,6 +59,5 @@ Aqui vai uma apresentação resumidamente:
 </a>
 </p>
  
-/* Obrigado por visitar meu perfil */
 
  
