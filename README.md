@@ -42,7 +42,7 @@ Aqui vai uma apresentação resumidamente:
  
 #contact {
   github: url("https://github.com/natanaelmizzone");
-  linkedin: url("[https://linkedin.com/natanaelmizzone](https://www.linkedin.com/in/natanaelmizzone/)");
+  linkedin: url("https://www.linkedin.com/in/natanaelmizzone/");
 }
 
 
